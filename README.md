@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/c3/59/53/c35953835c18b9802472961f465e98e7.jpg)]
+[![MasterHead](https://i.pinimg.com/originals/49/e3/ff/49e3ff5c57f637eeeea958496a76e658.jpg)]
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Bianca Morais</h1>
 <h3 align="center">Student programming from Jaú,SP - Brazil</h3>
 
