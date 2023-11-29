@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Bianca Morais 💫</h1>
-<h3 align="center">Student programming from Jaú,SP - Brazil</h3>
+<h3 align="center">Student programming from Jaú, SP - Brazil</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
