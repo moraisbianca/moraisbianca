@@ -1,3 +1,4 @@
+<img src="images/Banner.png" alt="banner" align="center"/>
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Bianca Morais 💫</h1>
 <h3 align="center">Student programming from Jaú, SP - Brazil</h3>
 
