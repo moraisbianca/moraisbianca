@@ -30,8 +30,8 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" hspace="3"/> </a> </p> <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisbianca&show_icons=true&locale=en&theme=omni" alt="moraisbianca" width="430" hspace="15"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisbianca&theme=omni" alt="moraisbianca" width="453"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moraisbianca&show_icons=true&locale=en&theme=omni" alt="moraisbianca" width="410" hspace="15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisbianca&theme=omni" alt="moraisbianca" width="433"/>
 </p>
 
 <p align="center">
